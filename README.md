@@ -3,7 +3,7 @@
 + Tools: Proteus, Codevision
 + Tasks: Simulate circuit diagram on Proteus, build code in Codevision and load hex file to AVR microcontroller, test system and debug,...
 + Knowledge used in this project:
-  - Microcontroller: Timer0(fastPWM), ADC, registers declare. 
+  - Microcontroller: Timer0(fastPWM), ADC, Declaring registers. 
   - C language: loop, if-else structure.
 + Working principle:
   - Controlling the rotation of the lights according to the steering angle: The system uses the motor to control the rotation of the headlights depending on the steering angle.
